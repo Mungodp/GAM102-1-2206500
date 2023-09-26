@@ -13,5 +13,4 @@ All foliage enviromental assets are from:
 
 LowPoly Enviroment Pack. 2017. Unity Asset Store, k0rveen
 https://assetstore.unity.com/packages/3d/environments/landscapes/lowpoly-environment-pack-99479
-
-
+This asset pack uses an "Extension Asset" license under the "Standard Unity Asset Store EULA"
