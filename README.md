@@ -10,5 +10,6 @@ License: The license I have chosen will be using will be the MIT license as I am
 All foliage enviromental assets are from:
 
 LowPoly Enviroment Pack. 2017. Unity Asset Store, k0rveen
+https://assetstore.unity.com/packages/3d/environments/landscapes/lowpoly-environment-pack-99479
 
 
