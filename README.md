@@ -6,6 +6,8 @@ It will include a dedicated player point of view and a functional character cont
 of a woodland within a mountainous region/arena. It will also include a menu and in-game UI
 
 License: The license I have chosen will be using will be the MIT license as I am happy for anyone to utilize or improve my project in any way they would like.
+The main benefits of this particular license are that anyone can edit and adapt the material in private free of charge. However the license doesn't include 
+any warranty, and has limited liability for the creator. 
 
 All foliage enviromental assets are from:
 
